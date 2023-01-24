@@ -1,0 +1,11 @@
+project:
+  title: "Computational Medicine Relay Teams"
+  output-dir: _output
+  type: website
+
+format:
+  docx: default
+  pdf: default
+
+
+

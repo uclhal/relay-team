@@ -14,3 +14,14 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Mac debris
+.DS_Store
+
+# MS office debris
+~$*
+
+# Quarto
+*/.quarto/
+/_site/
+*/_output/
