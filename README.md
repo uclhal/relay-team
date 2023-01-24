@@ -1,6 +1,6 @@
 # UCL/UCLH Computational Medicine Relay Teams
 
-A [proposal](proposal/proposal.qmd) and handbook for delivering data science work for the Computational Medicine theme.
+A [proposal](docs/proposal/proposal.qmd) and handbook for delivering data science work for the Computational Medicine theme.
 
 ## Notes
 
