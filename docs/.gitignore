@@ -1,1 +1,5 @@
+# Quarto
 /.quarto/
+/_output/*
+/_site/
+*/mediabag/*

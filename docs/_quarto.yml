@@ -2,10 +2,13 @@ project:
   title: "Computational Medicine Relay Teams"
   output-dir: _output
   type: website
+  render: 
+      - "*.qmd"
+      - "!readme.md"
+      - "!templates/*"
 
 format:
-  docx: default
-  pdf: default
+  gfm: default
 
 
 

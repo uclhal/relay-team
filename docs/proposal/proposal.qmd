@@ -4,6 +4,10 @@ author: Steve Harris
 date: 2023-01-24
 number-sections: false
 reference-location: margin
+format: 
+    docx:
+        reference-doc: ../templates/docx.docx
+
 ---
 
 
@@ -20,7 +24,7 @@ The two pairs (4 people) would be managed by a project (relay) coordinator.  The
 
 |                                                 | Anchor Pod                                                   | Relay co-ordinator                                           | Academic Group                                               |
 |-------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|--------------------------------------------------------------|
-|                                                 | No involvement                                               | Scheduling and coordination with the theme oversigh board    | Ongoing work<br>Longer term approvals and governance<br>Project proposal<br>Signal intention to engage<br> |
+|                                                 | No involvement                                               | Scheduling and coordination with the theme oversight board    | Ongoing work<br>Longer term approvals and governance<br>Project proposal<br>Signal intention to engage<br> |
 | **Approval milestone**                          |                                                              |                                                              | Project 'go' criteria defined                                |
 | Preparation<br>1-3 months<br>*Value definition* | Approvals & Training<br>Detailed project scoping and planning<br>Approximately 10 person days available (5 per person) including exploratory scoping 'spikes'<br> | Coordinate approvals and training<br>Detailed project scoping and planning | Deliver approvals and training<br>Specify project aims and define impact<br><br><br> |
 | ***Go* milestone**                              | Sign off on feasibility                                      | Sign-off on preparation                                      | Sign-off planned scope                                       |
